@@ -1,3 +1,6 @@
+### Code below created by modifying code by Akira Takihara Wang
+### https://github.com/akiratwang/MAST30034_Python/blob/main/advanced_tutorials/Spark%20Tutorial.ipynb
+
 from os.path import getsize
 from urllib.request import urlretrieve
 
